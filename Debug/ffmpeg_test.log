@@ -1,0 +1,4 @@
+﻿  ffmpeg_test.cpp
+C:\Users\10914\source\repos\ffmpeg_test\ffmpeg_test.cpp(77,16): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\10914\source\repos\ffmpeg_test\ffmpeg_test.cpp(53,6): warning C4101: “y_size”: 未引用的局部变量
+  ffmpeg_test.vcxproj -> C:\Users\10914\source\repos\ffmpeg_test\Debug\ffmpeg_test.exe

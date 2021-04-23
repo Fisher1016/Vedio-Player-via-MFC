@@ -1,0 +1,19 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(452,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (ffmpeg_test.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  testMFCDlg.cpp
+C:\Users\10914\source\repos\testMFC\testMFCDlg.cpp(5): warning C4603: “_CRT_SECURE_NO_WARNINGS”: 未定义宏或在预编译头使用后定义发生改变
+C:\Users\10914\source\repos\testMFC\testMFCDlg.cpp(5): message : 将宏添加到预编译头中，而不是在此处定义
+C:\Users\10914\source\repos\testMFC\testMFCDlg.cpp(11): message : 使用预编译头
+C:\Users\10914\source\repos\testMFC\testMFCDlg.cpp(6): warning C4603: “__STDC_CONSTANT_MACROS”: 未定义宏或在预编译头使用后定义发生改变
+C:\Users\10914\source\repos\testMFC\testMFCDlg.cpp(6): message : 将宏添加到预编译头中，而不是在此处定义
+C:\Users\10914\source\repos\testMFC\testMFCDlg.cpp(11): message : 使用预编译头
+C:\Users\10914\source\repos\testMFC\testMFCDlg.cpp(7): warning C4603: “REFRESH_EVENT”: 未定义宏或在预编译头使用后定义发生改变
+C:\Users\10914\source\repos\testMFC\testMFCDlg.cpp(7): message : 将宏添加到预编译头中，而不是在此处定义
+C:\Users\10914\source\repos\testMFC\testMFCDlg.cpp(11): message : 使用预编译头
+C:\Users\10914\source\repos\testMFC\testMFCDlg.cpp(8): warning C4603: “BREAK_EVENT”: 未定义宏或在预编译头使用后定义发生改变
+C:\Users\10914\source\repos\testMFC\testMFCDlg.cpp(8): message : 将宏添加到预编译头中，而不是在此处定义
+C:\Users\10914\source\repos\testMFC\testMFCDlg.cpp(11): message : 使用预编译头
+C:\Users\10914\source\repos\testMFC\resource.h(12,1): warning C4005: “IDC_WAIT”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.h(10612): message : 参见“IDC_WAIT”的前一个定义
+C:\Users\10914\source\repos\testMFC\testMFCDlg.cpp(173,16): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\10914\source\repos\testMFC\testMFCDlg.cpp(143,6): warning C4101: “y_size”: 未引用的局部变量
+  testMFC.vcxproj -> C:\Users\10914\source\repos\testMFC\Debug\testMFC.exe
